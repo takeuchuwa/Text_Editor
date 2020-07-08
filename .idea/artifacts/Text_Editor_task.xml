@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Text_Editor-task">
+    <output-path>$PROJECT_DIR$/out/artifacts/Text_Editor_task</output-path>
+    <root id="archive" name="Text_Editor-task.jar">
+      <element id="archive" name="Text_Editor_task.jar">
+        <element id="module-output" name="Text_Editor-task" />
+      </element>
+    </root>
+  </artifact>
+</component>
